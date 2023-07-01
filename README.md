@@ -1,5 +1,5 @@
 # TPFINAL_PDS1
-Jogo Dancing Plates em C usando a biblioteca Allegro
+## Jogo Dancing Plates em C usando a biblioteca Allegro
 Para a execução do código para linux, deve-se entrar na pasta pelo terminal e digitar o comando make, isso claro, se tiver as bibliotecas allegro instaladas
 além do gcc também instalado para a compilação feita corretamente. Após isso, digitar no terminal, dentro da mesma pasta:"./tp". Para rodar no windows, basta rodar o .exe, mas caso faça alguma alteração no .c, será necessário colocar os arquivos da pasta dentro da pasta KIT_DEV_ALLEGRO linkada no seguinte docs: https://docs.google.com/document/d/1W6KCcpRKO2-3iEuoTFtMYqiB7INfVUjxjSo-p_pNtMg/edit?pli=1
 # Controles
